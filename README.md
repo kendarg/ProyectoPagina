@@ -26,7 +26,7 @@ Colombia Shoes es una aplicación web estática enfocada en presentar un catálo
 ## 📂 Estructura del proyecto
 
 ```
-ProyectoPagina/
+ProyectoPagina/src/com/kendarg/pagina
 │
 ├── CSS/
 ├── JavaScript/
@@ -56,7 +56,14 @@ ProyectoPagina/
 - Mejorar el diseño responsive para dispositivos móviles.
 - Conectar el proyecto con un backend utilizando Java o PHP.
 
+## 📷 Capturas
 
+Puedes agregar imágenes del proyecto aquí:
+
+```
+/screenshots/inicio.png
+/screenshots/catalogo.png
+/screenshots/asesores.png
 ```
 
 ## 👨‍💻 Autor
