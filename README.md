@@ -26,7 +26,7 @@ Colombia Shoes es una aplicación web estática enfocada en presentar un catálo
 ## 📂 Estructura del proyecto
 
 ```
-kendarg/
+ProyectoPagina/
 │
 ├── CSS/
 ├── JavaScript/
@@ -37,20 +37,6 @@ kendarg/
 ├── Asesores.html
 └── demás archivos HTML
 ```
-
-## ▶️ Cómo ejecutar el proyecto
-
-1. Clona el repositorio:
-
-```bash
-git clone https://github.com/kendarg/kendarg.git
-```
-
-2. Ingresa a la carpeta del proyecto.
-
-3. Abre el archivo **index.html** en cualquier navegador web moderno.
-
-También puedes utilizar la extensión **Live Server** de Visual Studio Code para una mejor experiencia durante el desarrollo.
 
 ## 🎯 Objetivos del proyecto
 
@@ -70,14 +56,7 @@ También puedes utilizar la extensión **Live Server** de Visual Studio Code par
 - Mejorar el diseño responsive para dispositivos móviles.
 - Conectar el proyecto con un backend utilizando Java o PHP.
 
-## 📷 Capturas
 
-Puedes agregar imágenes del proyecto aquí:
-
-```
-/screenshots/inicio.png
-/screenshots/catalogo.png
-/screenshots/asesores.png
 ```
 
 ## 👨‍💻 Autor
