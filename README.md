@@ -56,15 +56,6 @@ ProyectoPagina/src/com/kendarg/pagina
 - Mejorar el diseño responsive para dispositivos móviles.
 - Conectar el proyecto con un backend utilizando Java o PHP.
 
-## 📷 Capturas
-
-Puedes agregar imágenes del proyecto aquí:
-
-```
-/screenshots/inicio.png
-/screenshots/catalogo.png
-/screenshots/asesores.png
-```
 
 ## 👨‍💻 Autor
 
