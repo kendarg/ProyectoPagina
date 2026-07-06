@@ -67,6 +67,3 @@ ProyectoPagina/src/com/kendarg/pagina
 ## 📄 Licencia
 
 Este proyecto fue desarrollado con fines académicos y de aprendizaje.
-
-## 🖍️ Colores
-- Formato de colores Por modelos Independientes
